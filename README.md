@@ -2,43 +2,32 @@
 
 Electrical Engineering student at Qassim University, specializing in Communications and Electronics.
 
-I am building practical experience in embedded systems, electronics, industrial instrumentation, and engineering documentation.
+I am interested in engineering, technology, and the process of turning knowledge into practical work. This profile documents the projects I build, the subjects I explore, and my development throughout my engineering journey.
 
 **BUILD • LEARN • DOCUMENT • IMPROVE**
 
-## Current Focus
+## About Me
 
-- Learning STM32 and bare-metal embedded programming
-- Strengthening my Embedded C fundamentals
-- Exploring microcontroller peripherals and communication protocols
-- Building practical electronics and embedded-system projects
-- Documenting my engineering journey and lessons learned
+- Electrical Engineering student
+- Interested in electronics, embedded systems, and technology
+- Focused on continuous learning and practical application
+- Building and documenting engineering projects and experiences
 
-## Selected Work
+## What You’ll Find Here
 
-### Arduino Solar Tracker
+- Engineering projects
+- Experiments and practical work
+- Technical learning and documentation
+- Academic and personal developments
+- Tools and ideas explored throughout my journey
 
-A single-axis solar tracking system built using an Arduino, two LDR sensors, and servo control.
+## Personal Engineering Platform
 
-[View the repository](https://github.com/feras-almahre/arduino-solar-tracker)
+My website is more than a portfolio. It is a living professional engineering platform where I document my work, learning, experiences, and progress.
 
-### Personal Professional Engineering Platform
-
-A living engineering platform where I document my projects, learning progress, technical notes, and professional experience.
-
-[Visit the website](https://feras-almahre.vercel.app)
-
-## Technologies and Areas
-
-- C and Embedded C
-- STM32 and ARM Cortex-M
-- Arduino
-- Electronics
-- GPIO, Timers, PWM, ADC, UART, SPI, and I²C
-- Instrumentation, PLC, SCADA, and HMI
-- Git and GitHub
+[Visit feras-almahre.com](https://feras-almahre.com)
 
 ## Connect
 
-- [Personal Website](https://feras-almahre.vercel.app)
+- [Personal Website](https://feras-almahre.com)
 - [LinkedIn](https://www.linkedin.com/in/feras-almahre)
