@@ -1,31 +1,47 @@
 # Feras Almahre
 
-Electrical Engineering student at Qassim University, specializing in Communications and Electronics.
+### Electrical Engineering Student  
+**Communications & Electronics**
 
-I am interested in engineering, technology, and the process of turning knowledge into practical work. This profile documents the projects I build, the subjects I explore, and my development throughout my engineering journey.
+I am an Electrical Engineering student at Qassim University, interested in understanding how engineering ideas develop into practical systems, meaningful projects, and real-world solutions.
 
-**BUILD • LEARN • DOCUMENT • IMPROVE**
+This GitHub profile is a living record of my engineering journey—what I build, what I learn, how I think, and how my work improves over time.
 
-## About Me
+> **BUILD • LEARN • DOCUMENT • IMPROVE**
 
-- Electrical Engineering student
-- Interested in electronics, embedded systems, and technology
-- Focused on continuous learning and practical application
-- Building and documenting engineering projects and experiences
+## My Engineering Journey
 
-## What You’ll Find Here
+I use GitHub not only to publish completed projects, but also to document the process behind them.
 
-- Engineering projects
-- Experiments and practical work
-- Technical learning and documentation
-- Academic and personal developments
-- Tools and ideas explored throughout my journey
+That process includes exploring ideas, applying engineering concepts, solving problems, testing solutions, learning from limitations, and improving the final result.
 
-## Personal Engineering Platform
+Here, you may find:
 
-My website is more than a portfolio. It is a living professional engineering platform where I document my work, learning, experiences, and progress.
+- Engineering projects and practical applications
+- Academic and personal work
+- Experiments, prototypes, and technical explorations
+- Project documentation and development processes
+- Lessons learned through building and problem-solving
 
-[Visit feras-almahre.com](https://feras-almahre.com)
+## Engineering Interests
+
+My interests continue to develop across areas including:
+
+- Electronics and embedded systems
+- Communications and electrical engineering
+- Control, automation, and instrumentation
+- Software and tools that support engineering work
+- Technical documentation and knowledge sharing
+
+I value strong fundamentals, practical experience, clear documentation, and continuous improvement.
+
+## Personal Professional Engineering Platform
+
+My website is more than a traditional portfolio.
+
+It is a personal professional engineering platform where I bring together my projects, learning, experience, technical writing, and long-term development as an engineer.
+
+### [Visit feras-almahre.com](https://feras-almahre.com)
 
 ## Connect
 
